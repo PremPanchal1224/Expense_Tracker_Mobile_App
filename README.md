@@ -29,7 +29,7 @@ The **Expense Tracker** is a sleek and efficient Android mobile application deve
 - **Architecture:** MVVM (Model-View-ViewModel)
 - **Database:** Room (SQLite wrapper)
 - **UI:** Material Design Components
-- **Other Libraries:** LiveData, ViewModel, RecyclerView, Chart library (optional)
+
 
 
 ### 1️⃣ Clone the Repository
